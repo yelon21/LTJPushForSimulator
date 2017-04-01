@@ -1,0 +1,16 @@
+PODS:
+  - LTJPushForSimulator (0.1.0)
+
+DEPENDENCIES:
+  - LTJPushForSimulator (from `../`)
+
+EXTERNAL SOURCES:
+  LTJPushForSimulator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LTJPushForSimulator: b88791fb9172bbdbf0728c10bfde3427ef99a922
+
+PODFILE CHECKSUM: 846cdadc558b82e3f668b37cf19facf9354df7f7
+
+COCOAPODS: 1.2.0.beta.1
